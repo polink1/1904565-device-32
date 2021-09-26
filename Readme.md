@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Polina Kletsova](https://up.htmlacademy.ru/htmlcss/32/user/1904565).
-* Наставник: `Александр Григорьев`.
+* Наставник: `Александр Григорьев`. (https://htmlacademy.ru/profile/fuckhtml)
 
 ---
 
